@@ -1,2 +1,6 @@
-b1
+sanjana b1
+<<<<<<< HEAD
 b1 modfied again in master
+=======
+b1-new
+>>>>>>> first
